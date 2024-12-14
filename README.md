@@ -1,2 +1,7 @@
-Hello!
-I am Chaus, a self-taught front-end developer, still learning.
+# Hello!
+I am Chaus. A self-taught front-end developer. 
+
++ Added Something
+- Removed Something
+= Changed Something
+! Patched Something
